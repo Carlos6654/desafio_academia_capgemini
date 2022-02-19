@@ -12,7 +12,6 @@ Instagram: https://www.instagram.com/carlos_camposjr/
 
 NOTE:
   The exercises were created using the Python language (version 3.9), as I have more experience.
-  Later I will be transcribing to Java and inserting them in their respective folders.
 
 Requirements:
   Python version 3.0 or greater
@@ -37,7 +36,6 @@ Instructions:
 
 NOTA:
   Os exercícios foram criados utilizando a linguagem Python (versão 3.9), pois tenho mais experiência.
-  Posteriormente estarei transcrevendo para Java e inserindo-os em suas respectivas pastas.
  
 Requerimentos:
   Python versão 3.0 ou maior
